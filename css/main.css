@@ -248,32 +248,90 @@ footer p{
 	padding:7px 9px;
 }
 
+@media (max-width:1820px){
+.box p{
+		font-size:smaller;
+	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media (max-width:1592px){
+.info p{
+		font-size:smaller;
+	}
+@media (max-width:1820px){
+.box p{
+		display:none;
+	}
+@media (max-width:1344px){
+.info p{
+		width:100%;
+	}
+@media (max-width:1262px){
+form>input, form>textarea{
+		width:50%;
+	}
+@media (max-width:1174px){
+.box h4{
+		font-size:smaller;
+	}
+@media (max-width:1068px){
+.cta button, .cta hr{
+	display:none;
+}
+@media (max-width:872px){
+form div span{
+	display:none;
+}
+@media (max-width:872px){
+form div button{
+	left:3px;
+}
+@media (max-width:716px){
+.info p{
+		display:none;
+	}
+.socialMedia{
+	right:10px;
+	font-size:10px;
+}
+footer p{
+	left:10px;
+	font-size:10px;
+}
+.box h4{
+	display:none;
+}
+@media (max-width:592px){
+.work h2{
+	font-size:20px;
+}
+.cta p{
+	display:none;
+}
+@media (max-width:536px){
+.features .box{
+	padding:0px;
+}
+form>input, form>textarea{
+		width:90%;
+}
+@media (max-width:464px){
+.features .iconBox{
+	display:none;
+}
+.cta h1{
+	font-size:70px;
+}
+.info h2{
+	font-size:20px;
+}
+@media (max-width:422px){
+footer{
+	padding-left:0px;
+}
+@media (max-width:348px){
+.work .box{
+	padding:0px;
+}
 
 
 
